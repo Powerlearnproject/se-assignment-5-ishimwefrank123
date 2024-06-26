@@ -75,7 +75,7 @@ Main Components of the VS Code User Interface:
 2.	Common Tasks:
 •	Opening files: Ctrl+P and start typing the file name.
 •	Running tasks: Ctrl+Shift+P and type "Run Task".
-•	Git commands: Ctrl+Shift+P and type "Git".
+•	Git commands: Ctrl+Shift+P and type "Git". 
 
 
 5. Extensions in VS Code:
